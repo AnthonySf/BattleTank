@@ -1,2 +1,2 @@
 # BattleTank
-*setting up gihub repo
+*setting up gihub repo!
